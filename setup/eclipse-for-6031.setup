@@ -573,7 +573,7 @@
       <repository
           url="https://constellation.mit.edu/install"/>
       <repository
-          url="https://javatutor.mit.edu/"/>
+          url="https://praxistutor.csail.mit.edu/"/>
       <repository
           url="http://6031.mit.edu/parserlib/eclipse"/>
     </setupTask>
